@@ -1,3 +1,5 @@
+# This README.md is from the original creater and the upload to github is for learning purposes only.
+
 # Vanilla JS Projects
 
 #### Enroll In The Course
