@@ -28,7 +28,7 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 14. Grocery Bud
 15. Slider
 
-#### Course Exclusive
+#### Course Exclusive - This is not available from the youtube videos, To learn these please enroll in the course mentioned in the link mentioned.
 
 16. Counters (OOP)
 17. Gallery (OOP)
