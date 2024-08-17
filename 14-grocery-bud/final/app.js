@@ -120,6 +120,7 @@ function editItem(e) {
   const element = e.currentTarget.parentElement.parentElement;
   // set edit item
   editElement = e.currentTarget.parentElement.previousElementSibling;
+  previousElementSibling;
   // set form value
   grocery.value = editElement.innerHTML;
   editFlag = true;
